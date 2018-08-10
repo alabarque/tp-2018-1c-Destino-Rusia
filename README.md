@@ -1,5 +1,5 @@
-El DT del team para Rusia: https://www.youtube.com/watch?v=Aw9kXFqWu_I
-
-Comando para exportar la biblioteca en consola (asumir que la biblioteca esta en /home/utnso/github/tp-2018-1c-Destino-Rusia/Biblioteca/Debug/) :
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/utnso/github/tp-2018-1c-Destino-Rusia/Biblioteca/Debug/
-
+1. Clonar repo en vm server
+2. Correr script de deploy con sudo bash ./deploy.sh
+3. Abrir una consola para el planificador, coordinador y una para cada instancia y proceso esi.
+4. Modificar archivos de configuracion
+5. Ejecutar los procesos
